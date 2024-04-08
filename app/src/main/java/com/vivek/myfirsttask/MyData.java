@@ -20,9 +20,6 @@ public class MyData {
     public void setProducts(List<Product> value) { this.products = value; }
 }
 
-// Product.java
-
-// YApi QuickType插件生成，具体参考文档:https://plugins.jetbrains.com/plugin/18847-yapi-quicktype/documentation
 
 class Product {
     private double discountPercentage;
